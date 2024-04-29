@@ -27,3 +27,5 @@ Three different center gears were used that are characterized by different level
 Left to right: no wear, light wear, heavy wear.
 
 ![Gears](/images/gears.JPG)
+
+#test 
